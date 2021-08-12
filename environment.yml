@@ -1,7 +1,7 @@
 name: MachineLearningTutorialUdacity
 channels:
-	- conda-forge
-	- rdkit
+	-conda-forge
+	-rdkit
 dependencies:
 	-numpy
 	-python=3.7
